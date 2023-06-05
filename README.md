@@ -10,7 +10,7 @@ Perceived excellent presentation and communication skills when comes to integrat
 ## Skills and experience
 - Markup languages: XML, HTML, CSS, Markdown, and DITA
 - 📎 User manuals, User guides, API documentation, topic-based authoring, procedural writing, and release notes.
--📽 Camtasia
+- 📽 Camtasia
 - 📖🛠 Adobe Framemaker, Arbortext Epic Editor, Confluence, Madcap Flare, Microsoft Word.
 - 📸 Snagit, Zap Grab, Snipping Tool
 
