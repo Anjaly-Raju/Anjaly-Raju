@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on UST 
 - 🌱 I’m learning API documentation 
 - 👯 I’m looking to collaborate on Technical Writing project 
-- 📫 How to reach me: anjaly.raju321@gmail.com 
+- 📫  anjaly.raju321@gmail.com 
 ## Skills and experience
 - XML 
 - HTML
