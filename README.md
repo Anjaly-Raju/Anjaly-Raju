@@ -1,12 +1,17 @@
- ### Hi there 👋, my name is Anjaly Raju
-#### I am a Senior Technical Writer 
-![I am a Senior Technical Writer ](https://github.com/Anjaly-Raju/Anjaly-Raju/blob/main/Capture.PNG)
+ # Anjaly Raju
+##I am a Senior Technical Writer 
+## Skills and experience
+*XML 
+*HTML
+*CSS
+*VISIO
+
 
 I am a Senior Technical Writer with 8+ years of experience in the technical writing field.I have a passion for translating complex technical information into clear and user-friendly documentation.Working professionally with a crisp in XML and HTML authoring. Follows DITA, Agile, Scrum, DDLC, and SDLC terminologies to author and process the data. Experience in authoring and demonstrating enterprise software, healthcare products, and industrial IOT products.
 
 Perceived excellent presentation and communication skills when comes to integrating into an environment that demands repartee. Comfortable working with cross-functional teams to get inputs, concepts, and internal document requirements. Also, provide on-time delivery of product manuals that deal with Graphical User Interface.
 
-Skills: Technical Writing/ XML / HTML / CSS/VISIO
+Skills: Technical Writing/ 
 
 - 🔭 I’m currently working on UST 
 - 🌱 I’m currently learning API documentation 
