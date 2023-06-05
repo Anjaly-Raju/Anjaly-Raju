@@ -1,5 +1,4 @@
  # Anjaly Raju
-##I am a Senior Technical Writer
 - 🔭 I’m currently working on UST 
 - 🌱 I’m learning API documentation 
 - 👯 I’m looking to collaborate on Technical Writing project 
