@@ -14,5 +14,5 @@ Perceived excellent presentation and communication skills when comes to integrat
 - 📖🛠 Adobe Framemaker, Arbortext Epic Editor, Confluence, Madcap Flare, Robo help, and Microsoft Word.
 - 📸 Snagit, Zap Grab, Snipping Tool
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anjaly-Raju)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([www.linkedin.com/in/anjaly-raju](https://www.linkedin.com/in/anjaly-raju/))
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anjaly-Raju)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anjaly-raju//)  
 ## Work Samples
