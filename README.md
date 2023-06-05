@@ -15,8 +15,4 @@ Perceived excellent presentation and communication skills when comes to integrat
 - 🌱 I’m currently learning API documentation 
 - 👯 I’m looking to collaborate on Technical Writing project 
 - 📫 How to reach me: anjaly.raju321@gmail.com 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anjaly-Raju)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anjaly-raju//)  
-
- 
