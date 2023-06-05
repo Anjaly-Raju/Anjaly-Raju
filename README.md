@@ -8,10 +8,11 @@ I have a passion for translating complex technical information into clear and us
 
 Perceived excellent presentation and communication skills when comes to integrating into an environment that demands repartee. Comfortable working with cross-functional teams to get inputs, concepts, and internal document requirements. Also, provide on-time delivery of product manuals that deal with Graphical User Interface.
 ## Skills and experience
-- XML 
-- HTML
-- CSS
-- VISIO
+- Markup languages: XML, HTML, CSS, Markdown, and DITA
+- 📎 User manuals, User guides, API documentation, topic-based authoring, procedural writing, and release notes.
+-📽 Camtasia
+- 📖🛠 Adobe Framemaker, Arbortext Epic Editor, Confluence, Madcap Flare, Microsoft Word.
+- 📸 Snagit, Zap Grab, Snipping Tool
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anjaly-Raju)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anjaly-raju//)
 ## Work Samples
