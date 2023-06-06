@@ -1,5 +1,5 @@
  # Anjaly Raju
-- 🔭 I’m currently working on UST 
+- 🔭 I’m currently working at UST 
 - 🌱 I’m learning API documentation 
 - 👯 I’m looking to collaborate on Technical Writing project 
 - 📫  anjaly.raju321@gmail.com 
