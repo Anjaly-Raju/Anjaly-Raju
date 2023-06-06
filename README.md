@@ -1,6 +1,6 @@
  # Anjaly Raju
 - 🔭 I’m currently working at UST  
-- 👯 I’m looking to collaborate on Technical Writing project 
+- 👯 I’m looking to collaborate on Technical Writing projects 
 - 📫  reach out to me at anjaly.raju321@gmail.com 
 
 I have a passion for translating complex technical information into clear and user-friendly documentation.Working professionally with a crisp in XML and HTML authoring. Follows DITA, Agile, Scrum, DDLC, and SDLC terminologies to author and process the data. Experience in authoring and demonstrating enterprise software, healthcare products, and industrial IOT products.
