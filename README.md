@@ -7,7 +7,7 @@ I have a passion for translating complex technical information into clear and us
 
 Perceived excellent presentation and communication skills when comes to integrating into an environment that demands repartee. Comfortable working with cross-functional teams to get inputs, concepts, and internal document requirements. Also, provide on-time delivery of product manuals that deal with Graphical User Interface.
 ## Skills and experience
-- Markup languages: XML, HTML, CSS, Markdown, and DITA
+- Markup languages: SQL, XML, HTML, CSS, Markdown, and DITA
 - 📎 User manuals, User guides, API documentation, topic-based authoring, procedural writing, and release notes.
 - 📽 Camtasia
 - 📖🛠 Adobe Framemaker, Arbortext Epic Editor, Confluence, Madcap Flare, Robo help, and Microsoft Word.
