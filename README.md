@@ -14,6 +14,6 @@ Known for my strong communication and presentation skills, I excel at integratin
 - **Screen Capture:** Snagit, Zap Grab, Snipping Tool
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anjaly-Raju) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjaly-raju//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjaly-raju//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](https://wordpress.com/view/leisuretime518134115.wordpress.com)
 ## Work Samples
 [Git Branching Process.pdf](https://github.com/Anjaly-Raju/Anjaly-Raju/files/12604909/Git.Branching.Process.pdf)
