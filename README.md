@@ -13,6 +13,7 @@ Known for my strong communication and presentation skills, I excel at integratin
 - Tools: Camtasia, Adobe Framemaker, Arbortext Epic Editor, Confluence, Madcap Flare, Robo help, and Microsoft Word.
 - Screen Capture: Snagit, Zap Grab, Snipping Tool
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anjaly-Raju)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjaly-raju//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anjaly-Raju)img/> 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjaly-raju//)  
 ## Work Samples
 [Git Branching Process.pdf](https://github.com/Anjaly-Raju/Anjaly-Raju/files/12604909/Git.Branching.Process.pdf)
