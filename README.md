@@ -1,7 +1,7 @@
  # Anjaly Raju
-- 🔭 ##Seeking new opportunities in Technical Writing or Business Analysis.   
-- 👯 ##Open to collaboration on technical writing and documentation projects. 
-- 📫  ##Contact: anjaly.raju321@gmail.com 
+- 🔭 *Seeking new opportunities* in Technical Writing or Business Analysis.   
+- 👯 Open to collaboration on technical writing and documentation projects. 
+- 📫 Contact: anjaly.raju321@gmail.com 
 
 I am passionate about making complex technical information accessible and user-friendly. With a strong foundation in XML, HTML, and DITA authoring, I have extensive experience producing clear, engaging documentation for enterprise software, healthcare applications, and industrial IoT products. My background spans Agile, Scrum, DDLC, and SDLC methodologies, enabling me to deliver precise, structured documentation that meets high standards.
 
