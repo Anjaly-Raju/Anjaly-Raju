@@ -1,17 +1,25 @@
  # Anjaly Raju
-- **Seeking new opportunities** in Technical Writing or Business Analysis.   
-- **Open to collaboration** on technical writing and documentation projects. 
-- **Contact:** anjaly.raju321@gmail.com 
+ 💡 Technical Writer | Business Analyst | Documentation Specialist
+📩 Contact: anjaly.raju321@gmail.com
+🌐 GitHub: github.com/Anjaly-Raju
+## About me
+I am a technical writer and business analyst passionate about making complex technical concepts clear, accessible, and user-friendly. With expertise in XML, HTML, DITA, and structured documentation, I create high-quality user manuals, API documentation, and GUI-focused product guides for enterprise software, healthcare applications, and industrial IoT solutions.
 
-I am passionate about making complex technical information accessible and user-friendly. With a strong foundation in XML, HTML, and DITA authoring, I have extensive experience producing clear, engaging documentation for enterprise software, healthcare applications, and industrial IoT products. My background spans Agile, Scrum, DDLC, and SDLC methodologies, enabling me to deliver precise, structured documentation that meets high standards.
+My experience working in Agile, Scrum, DDLC, and SDLC environments allows me to collaborate effectively with developers, designers, and business stakeholders to produce structured, high-impact documentation.
 
-Known for my strong communication and presentation skills, I excel at integrating seamlessly with cross-functional teams, gathering insights, and delivering high-quality, on-time documentation, including GUI-focused product manuals. I am committed to creating a positive user experience through effective technical content.
-
-## Skills and experience
+## Skills & Expertise
+### Documentation & Writing
+✔ Technical Writing – User manuals, API documentation, procedural guides, and release notes
+✔ Topic-Based Authoring – DITA, structured content, and modular documentation
+✔ Business Analysis – Gathering requirements, workflow documentation, and process mapping
+### Tools & Technologies
 - **Markup languages:** SQL, XML, HTML, CSS, Markdown, and DITA
-- **Documentation Expertise:** User manuals, User guides, API documentation, topic-based authoring, procedural writing, and release notes.
 - **Tools:** Camtasia, Adobe Framemaker, Arbortext Epic Editor, Confluence, Madcap Flare, Robo help, and Microsoft Word.
 - **Screen Capture:** Snagit, Zap Grab, Snipping Tool
+## Open to Collaboration
+🚀 Seeking new opportunities in Technical Writing & Business Analysis
+🤝 Open to collaborating on technical writing and documentation projects
+📩 Let’s connect! Feel free to reach out via email or explore my GitHub repositories.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anjaly-Raju) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjaly-raju//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](https://wordpress.com/view/leisuretime518134115.wordpress.com)
