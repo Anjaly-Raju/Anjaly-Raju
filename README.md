@@ -24,5 +24,5 @@ My experience working in Agile, Scrum, DDLC, and SDLC environments allows me to 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anjaly-Raju) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjaly-raju//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](https://wordpress.com/view/leisuretime518134115.wordpress.com)
 ## Work Samples
-[Git Branching Process.pdf](https://github.com/Anjaly-Raju/Anjaly-Raju/files/12604909/Git.Branching.Process.pdf)
+[Git Branching Process](https://github.com/Anjaly-Raju/Anjaly-Raju/files/12604909/Git.Branching.Process.pdf)
 [Installation User Manual.pdf]
