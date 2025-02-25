@@ -9,9 +9,9 @@ My experience working in Agile, Scrum, DDLC, and SDLC environments allows me to 
 
 ## Skills & Expertise
 ### Documentation & Writing
-- ✔ Technical Writing – User manuals, API documentation, procedural guides, and release notes
-- ✔ Topic-Based Authoring – DITA, structured content, and modular documentation
-- ✔ Business Analysis – Gathering requirements, workflow documentation, and process mapping
+- Technical Writing – User manuals, API documentation, procedural guides, and release notes
+- Topic-Based Authoring – DITA, structured content, and modular documentation
+- Business Analysis – Gathering requirements, workflow documentation, and process mapping
 ### Tools & Technologies
 - **Markup languages:** SQL, XML, HTML, CSS, Markdown, and DITA
 - **Tools:** Camtasia, Adobe Framemaker, Arbortext Epic Editor, Confluence, Madcap Flare, Robo help, and Microsoft Word.
