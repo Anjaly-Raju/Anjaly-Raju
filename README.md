@@ -24,7 +24,7 @@ My experience working in Agile, Scrum, DDLC, and SDLC environments allows me to 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anjaly-Raju) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjaly-raju//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](https://wordpress.com/view/leisuretime518134115.wordpress.com)
 ## Work Samples
-[_System_Installation_user_manual](https://github.com/user-attachments/files/18973930/2VAA008303_J_en_Splus_System_Installation_user_manual_compressed.pdf)
-[Splus_Engineering_2.4_Bulk_engineering_user_manual.pdf](https://github.com/user-attachments/files/18974156/8VZZ000133T2400_A_en_Splus_Engineering_2.4_Bulk_engineering_user_manual.pdf)
-[Git Branching Process](https://github.com/Anjaly-Raju/Anjaly-Raju/files/12604909/Git.Branching.Process.pdf)
-[_Gmail_Account creation_How-To-Guide](https://github.com/user-attachments/files/18974192/ABZT1000_A_Gmail_Account.creation_How-To-Guide.pdf)
+- [_System_Installation_user_manual](https://github.com/user-attachments/files/18973930/2VAA008303_J_en_Splus_System_Installation_user_manual_compressed.pdf)
+- [Splus_Engineering_2.4_Bulk_engineering_user_manual.pdf](https://github.com/user-attachments/files/18974156/8VZZ000133T2400_A_en_Splus_Engineering_2.4_Bulk_engineering_user_manual.pdf)
+- [Git Branching Process](https://github.com/Anjaly-Raju/Anjaly-Raju/files/12604909/Git.Branching.Process.pdf)
+- [_Gmail_Account creation_How-To-Guide](https://github.com/user-attachments/files/18974192/ABZT1000_A_Gmail_Account.creation_How-To-Guide.pdf)
