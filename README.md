@@ -1,4 +1,4 @@
- # Anjaly Raju
+# Anjaly Raju
  💡 Technical Writer | Business Analyst | Documentation Specialist
 📩 Contact: anjaly.raju321@gmail.com
 🌐 GitHub: github.com/Anjaly-Raju
